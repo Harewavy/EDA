@@ -57,7 +57,7 @@ The dataset contains information about customer orders, products, departments, a
 3. Make sure all `.csv` files are placed in the same directory as the notebook
 4. Run each cell in sequence to reproduce the analysis and plots
 
-## 🔗 Links
+## Links
 
 - [View My LinkedIn](https://www.linkedin.com/in/ozturkkenes)
 - [Visit My GitHub](https://github.com/Harewavy)
